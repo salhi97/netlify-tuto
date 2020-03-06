@@ -1,0 +1,41 @@
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+.button {
+  background-color:#DF0101;
+  border: none;
+  color: white;
+  padding: 15px     32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px   2px;
+  cursor: pointer;
+}
+body{
+
+	background-image:url(7.jpg); 
+	background-image:all;
+	-webkit-background-size:cover;
+	background-size:cover;
+	background-position: center center;
+	height: 100vh;
+}
+
+
+
+}
+nav{
+	position: relative;
+	padding:10px 20px 10px 10px;
+	text-align: right;
+	z-index: 1;
+	background:#333;
+	margin: 0 auto;
+	width: calc(100% - 60px);
+
+
+}
